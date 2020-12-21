@@ -5,7 +5,7 @@
 
 **Need:** Text data in the NHS is vastly underused due to issues around appropriate access and the subtleties when analysing free text.  Providing generated synthetic medical text in various realistic formats would enable greater opportunity to identify potential, and develop innovation.  This project would seek to build a methodology for creating publicly available synthetically generated medical notes and patient letters for developers of healthcare software and apps.   
 
-**Current Knowledge/Examples & Possible Techniques/Approaches:** Utilising and building on recent work in generating synthetic medical text e.g. Generation and evaluation of artificial mental health records for Natural Language Processing, SynthNotes: A Generator Framework for High-volume, High-fidelity Synthetic Mental Health Notes, and Exploring Transformer Text Generation for Medical Dataset Augmentation and exploration of the techniques on other data sources.
+**Current Knowledge/Examples & Possible Techniques/Approaches:** Utilising and building on recent work in generating synthetic medical text e.g. [Generation and evaluation of artificial mental health records for Natural Language Processing](https://www.nature.com/articles/s41746-020-0267-x), [SynthNotes: A Generator Framework for High-volume, High-fidelity Synthetic Mental Health Notes](https://www.osti.gov/servlets/purl/1507868), and [Exploring Transformer Text Generation for Medical Dataset Augmentation](https://www.aclweb.org/anthology/2020.lrec-1.578.pdf) and exploration of the techniques on other data sources.
 
 **Related Previous Internship Projects:** n/a as first year of the scheme
 
